@@ -1,6 +1,6 @@
 # myrepo
 
-my repo is to run my java helloworld program from docker image
+myrepo repository is contained to run my java helloworld program from docker image
 
 some comments for docker images build and run
 
