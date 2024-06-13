@@ -8,12 +8,9 @@ build:
 `docker build -t helloworld_img .`
 
 run:
-
-```
-    docker run helloworld_img
-
-	docker run shivarajesh91/myrepo:helloworld-img
-```
+`docker run helloworld_img`
+or
+`docker run shivarajesh91/myrepo:helloworld-img`
 
 tag:
 `docker tag helloworld-img shivarajesh91/myrepo:helloworld-img`
